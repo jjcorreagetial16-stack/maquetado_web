@@ -6,3 +6,28 @@ git config --global user.name "Juan"
 
 git config --global user.email "jjcorreagetial16@gmail.com"
 (Esto configura el email de usuario asociado)
+
+
+git branch -M main
+(cambiar el nombre de la rama de master a main)
+
+git add .
+(añade todos los archivos al repositorio)
+
+git commit -m "version de su vida"
+(es la version que usted esta subiendo al repositorio)
+
+git pusch -u origin main
+(esre empuja los cambios locales a la nube)
+
+git status
+(este comprueba el estado de la rama)
+
+git remote add origin "ENLACE DEL REPOSITORIO"
+(Se añade la direccion de su repositorio se hace o ejecuta una unica vez)
+
+ 
+
+
+
+
