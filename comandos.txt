@@ -25,8 +25,7 @@ git status
 
 git remote add origin "ENLACE DEL REPOSITORIO"
 (Se añade la direccion de su repositorio se hace o ejecuta una unica vez)
-
- 
+. 
 
 
 
